@@ -1,0 +1,28 @@
+{
+  "name": "murphytext",
+  "version": "1.0.0",
+  "description": "text back a link (or MMS) for a given keyword",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwhinnery/murphytext"
+  },
+  "keywords": [
+    "sms",
+    "mms",
+    "keyword"
+  ],
+  "author": "Kevin Whinnery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwhinnery/murpytext/issues"
+  },
+  "homepage": "https://github.com/kwhinnery/murpytext",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2"
+  }
+}

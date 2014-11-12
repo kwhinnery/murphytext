@@ -1,0 +1,9 @@
+{
+    "test": {
+        "body": "Here's a link: http://www.twilio.com"
+    },
+    "mmsTest": {
+        "body": "Here's some text with a picture!",
+        "mediaUrl": "http://images.wisegeek.com/young-calico-cat.jpg"
+    }
+}
